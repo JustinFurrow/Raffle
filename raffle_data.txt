@@ -1,0 +1,12 @@
+{
+    "AI": [
+        "Make this app better",
+        "BHIS/Brilliant courses on Python",
+        "Set up Autogen with Mistral",
+        "OpenAI agent creation/prompt engineering course"
+    ],
+    "Cybersecurity": [
+        "CIS Benchmarks 1: IAM",
+        "Azure Monitor applied skills"
+    ]
+}

@@ -1,0 +1,6 @@
+plyer
+pystray
+Pillow
+schedule
+tkinter
+notification
